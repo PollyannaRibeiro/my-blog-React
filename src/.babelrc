@@ -1,0 +1,5 @@
+{
+  "presets": ["@babel/preset-env"]
+}
+
+// transpilador de IS6 em vanilla JS
